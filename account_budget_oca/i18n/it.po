@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-10 11:34+0000\n"
-"PO-Revision-Date: 2026-11-19 09:46+0000\n"
+"PO-Revision-Date: 2026-11-25 09:46+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: Italian (https://www.transifex.com/odoo/teams/41243/it/)\n"
 "Language: it\n"
@@ -206,6 +206,11 @@ msgstr "Creato da"
 #: model:ir.model.fields,field_description:account_budget_oca.field_crossovered_budget_lines__create_date
 msgid "Created on"
 msgstr "Creato il"
+
+#. module: account_budget_oca
+#: model_terms:ir.ui.view,arch_db:account_budget_oca.crossovered_budget_view_form
+msgid "Details"
+msgstr "Dettagli"
 
 #. module: account_budget_oca
 #: model:ir.model.fields,field_description:account_budget_oca.field_account_budget_post__display_name
